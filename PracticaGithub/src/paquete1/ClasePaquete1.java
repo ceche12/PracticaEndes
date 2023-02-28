@@ -6,7 +6,7 @@ public class ClasePaquete1 {
 		System.out.println("COMMIT SOBRE LA CLASE 1");
 		System.out.println("HOLA MUNDO ESTA ES UNA PRACTICA PARA ENDES");
 		System.out.println("a");
-		System.out.println("a");
+		System.out.println("");
 	}
 
 	
