@@ -6,7 +6,7 @@ public class ClasePaquete2 {
 		System.out.println("PRACTICA DE GITHUB EN LA CLASE 2");
 		System.out.println("esto es un cambio desde el pc 2");
 		System.out.println("tercer cambio");
-		System.out.println("cuarto cambio");
+		System.out.println("cuarto cambioo");
 	}
 
 }
