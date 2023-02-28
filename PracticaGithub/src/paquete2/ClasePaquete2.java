@@ -8,6 +8,7 @@ public class ClasePaquete2 {
 		System.out.println("tercer cambio");
 		System.out.println("cuarto cambioo");
 		System.out.println("quinto cambioo");
+System.out.println("nuevarama");
 	}
 
 }//Fin
